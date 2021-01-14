@@ -1,5 +1,3 @@
-# metalheads
-
 ## Project setup
 ```
 npm install

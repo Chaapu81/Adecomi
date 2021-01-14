@@ -1,0 +1,29 @@
+*{
+    text-decoration: none!important;
+    list-style: none;
+}
+
+a{
+    -webkit-transition: color .12s linear;
+	-moz-transition: color .12s linear;
+	-ms-transition: color .12s linear;
+	-o-transition: color .12s linear;
+	transition: color .12s linear;
+    color: #1D3461;
+}
+
+a:hover{
+    color: #247BA0;
+}
+  
+.btn{
+    -webkit-transition: background .12s linear;
+	-moz-transition: background .12s linear;
+	-ms-transition: background .12s linear;
+	-o-transition: background .12s linear;
+	transition: background .12s linear;
+}
+
+textarea{
+    resize: none!important;
+}
